@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="31px" viewBox="0 0 26 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Product" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product_c" transform="translate(-240.000000, -1382.000000)" fill="#525252" fill-rule="nonzero">
+            <g id="Group-3" transform="translate(238.000000, 1049.000000)">
+                <g id="Group-2">
+                    <g id="Group-16" transform="translate(0.000000, 330.000000)">
+                        <g id="Group-12" transform="translate(2.000000, 3.000000)">
+                            <path d="M12.6818182,0 L-1.65201186e-13,5.63636364 L-1.65201186e-13,14.0909091 C-1.65201186e-13,21.9113636 5.41090909,29.2245455 12.6818182,31 C19.9527273,29.2245455 25.3636364,21.9113636 25.3636364,14.0909091 L25.3636364,5.63636364 L12.6818182,0 Z M22.5454545,14.0909091 C22.5454545,20.46 18.3463636,26.3359091 12.6818182,28.0831818 C7.01727273,26.3359091 2.81818182,20.46 2.81818182,14.0909091 L2.81818182,7.46818182 L12.6818182,3.08590909 L22.5454545,7.46818182 L22.5454545,14.0909091 Z M6.21409091,14.9222727 L4.22727273,16.9090909 L9.86363636,22.5454545 L21.1363636,11.2727273 L19.1495455,9.27181818 L9.86363636,18.5577273 L6.21409091,14.9222727 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
